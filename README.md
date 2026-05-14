@@ -2,8 +2,8 @@
 
  Student Information
 - Name: Hajj Sulaiman
-- Module Code: [Your Module Code]
-- Registration Number: [Your Reg Number]
+- Module Code: [351 CS 2104]
+- Registration Number: [25311351025]
 
  Project Description
 EduOS is a multi-component operating system simulator developed using C and Python. 

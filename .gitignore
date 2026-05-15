@@ -1,0 +1,16 @@
+# C bulid artifacts 
+*.o
+*.out
+
+
+# python
+__python__/
+*.pyc
+venv/
+
+# macOS
+.DS_Store
+
+# Output files 
+*.json
+!sample_processes.json
